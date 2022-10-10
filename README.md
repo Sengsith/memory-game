@@ -1,5 +1,8 @@
 # Simple Memory Game
 
+ - Solution URL: [GitHub](https://github.com/Sengsith/memory-game)
+- Live Site URL: [Netlify](https://creative-gumdrop-129c65.netlify.app)
+
 This was mainly created to test out my javascript and logical skills. The UI itself will be fairly bland on purpose just to focus on the desired areas of interest. The main challenge for myself was figuring out how the intereaction between the cards would be when the user clicks on the second card and transitions to clicking the third card. My main solution for this was:
 
 Having a global count variable and array to keep track of which cards were already clicked: 
@@ -81,9 +84,6 @@ function handleMismatchedCards() {
   count = 1;
 }
 ```
-
-- Solution URL: [GitHub](https://github.com/Sengsith/memory-game)
-- Live Site URL: [Netlify](https://creative-gumdrop-129c65.netlify.app)
 
 ### Screenshot
 
