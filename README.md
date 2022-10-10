@@ -82,6 +82,9 @@ function handleMismatchedCards() {
 }
 ```
 
+- Solution URL: [GitHub](https://github.com/Sengsith/memory-game)
+- Live Site URL: [Netlify](https://creative-gumdrop-129c65.netlify.app)
+
 ### Screenshot
 
 ![](./screenshot.png)
